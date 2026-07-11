@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+.navbar{
+    display:flex;
+    background-color:#fff;
+    justify-content:space-between;
+    align-items:center;
+    padding:25px 0;
+}
+nav ul{
+    list-style:none;
+    display:flex;
+    gap:35px;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    color:white;
+}
+.logo h3{
+    font-size:22px;
+    color: black;
+    padding-bottom:0;
+}
+
+.logo small{
+    font-size:20px;
+    color: black;
+    padding-top:0;
+    font-weight:bold
+}
+
+.logo-icon{
+    font-size:50px;
+    font-weight:bold;}
