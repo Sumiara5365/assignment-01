@@ -16,6 +16,7 @@ nav ul{
     list-style:none;
     display:flex;
     gap:35px;
+    
 }
 
 .logo{
@@ -40,3 +41,34 @@ nav ul{
 .logo-icon{
     font-size:50px;
     font-weight:bold;}
+    
+    .btn{
+    display:inline-block;
+    background:blue;
+    color:white;
+    padding:15px 25px;
+     border-radius:8px;
+    font-weight:600;
+    }
+
+    .container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
+
+body{
+    font-family:'Inter';
+    background:white;
+    color:black;
+    line-height:1.6;
+}
+
+nav ul li a{
+    color:black;
+    font-weight:500;   
+    
+}
+a{
+    text-decoration:none;
+}
