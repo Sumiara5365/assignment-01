@@ -25,18 +25,8 @@ nav ul{
     gap:12px;
     color:white;
 }
-.logo h3{
-    font-size:22px;
-    color: black;
-    padding-bottom:0;
-}
 
-.logo small{
-    font-size:20px;
-    color: black;
-    padding-top:0;
-    font-weight:bold
-}
+
 
 .logo-icon{
     font-size:50px;
@@ -52,8 +42,8 @@ nav ul{
     }
 
     .container{
-    width:60%;
-    max-width:900px;
+    width:80%;
+    max-width:1200px;
     margin:auto;
 }
 
@@ -133,6 +123,11 @@ a{
     padding:50px 0;
     background:#fff;
 }
+.speakers h2{
+    text-align:center;
+    font-size:40px;
+    margin-bottom:50px;
+}
 
 
 .speaker-grid{
@@ -156,12 +151,13 @@ a{
     padding:6px 12px;
     border-radius:50px;
     font-size:13px;
+    color:gray;
     margin-bottom:15px;
 }
 .speaker-card img{
     height:200px;
-    width:800x; 
-    object-fit:auto;
+    width:100%; 
+    object-fit:cover;
 }
 
 
@@ -169,4 +165,8 @@ a{
     font-size:24px;
     margin-bottom:10px;
     color: black;
+}
+.speciality{
+    font-size:13px;
+    color: blue;
 }
