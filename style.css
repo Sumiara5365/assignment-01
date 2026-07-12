@@ -176,3 +176,104 @@ a{
     grid-template-columns:repeat(3,1fr);
     gap:30px;
 }
+
+.pricing{
+    padding:100px 0;
+    background: white;
+}
+
+.pricing h2{
+    text-align:center;
+    font-size:40px;
+    margin-bottom:8px;
+}
+
+.pricing-subtitle{
+    text-align:center;
+    color:#666;
+    padding:0;
+    margin-bottom:60px;
+    font-size:18px;
+}
+.price-card{
+    background:white;
+    border-radius:18px;
+    padding:40px 30px;
+     box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.06);
+    
+     border-radius:20px;
+    
+    
+}
+.featured{
+    border:1px solid gray;
+    background:rgb(3, 3, 49);
+    font-size:15px;
+    color:rgb(192, 185, 185);
+    
+}
+ .per{
+    font-size:13px;
+    color:gray;
+    margin-bottom:20px;
+    border-bottom:1px solid rgb(206, 199, 199);
+ }
+
+ .price-card h1{
+    color:white;
+ }
+ .Pro-btn{
+    margin-top:20px;
+    display:block;
+    text-align:center;
+    padding:10px;
+    border:2px solid blue;
+    color:white;
+    border-radius:8px;
+    font-weight:200;
+    background: rgb(50, 50, 203);
+}
+.Team-btn{
+    margin-top:20px;
+    display:block;
+    text-align:center;
+    font-size:15px;
+    color:black;
+    padding:10px;
+    border:2px solid black;
+    border-radius:8px;
+    font-weight:200;
+    background: transparent;
+
+}
+ .Team{
+    
+    background: rgb(232, 231, 232);
+}
+.Team h1{
+    color:black;
+}
+.Standard-btn{
+    margin-top:20px;
+    display:block;
+    text-align:center;
+    font-size:15px;
+    color:blue;
+    padding:10px;
+    border:2px solid rgb(45, 45, 241);
+    border-radius:8px;
+    font-weight:200;
+    background: transparent;
+
+}
+
+.Standard h1{
+    color: black;
+}
+.Standard{
+    background: rgb(245, 239, 245);
+}
+    
+
+    
+
