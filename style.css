@@ -128,3 +128,45 @@ a{
     margin-top:250px;
 
 }
+
+.speakers{
+    padding:50px 0;
+    background:#fff;
+}
+
+
+.speaker-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:30px;
+}
+.speaker-card{
+    background:#fff;
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.06);
+    
+}
+.speaker-info{
+    padding:30px;
+}
+.tag{
+    display:inline-block;
+    background:white;
+    padding:6px 12px;
+    border-radius:50px;
+    font-size:13px;
+    margin-bottom:15px;
+}
+.speaker-card img{
+    height:200px;
+    width:800x; 
+    object-fit:auto;
+}
+
+
+.speaker-info h3{
+    font-size:24px;
+    margin-bottom:10px;
+    color: black;
+}
