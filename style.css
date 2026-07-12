@@ -170,3 +170,9 @@ a{
     font-size:13px;
     color: blue;
 }
+
+.pricing-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:30px;
+}
