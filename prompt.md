@@ -1,0 +1,1 @@
+I am building a webpage named DevConf which is basically a conference of renowned developers. It has started with a navigation bar, then banner, 4 renowned developers and their intro, pricing of joining the conference. what should I add next? guide me considering as beginner.
